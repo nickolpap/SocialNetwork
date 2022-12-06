@@ -1,1 +1,3 @@
 # SocialNetwork
+
+COURSEWORK: ANALYSIS OF A NETWORK
